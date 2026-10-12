@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Ao usar estes dados ou este código, cite o artigo de referência."
+title: "Capacidades estatais e a oferta do Benefício Eventual para calamidade pública nos municípios brasileiros: material de replicação"
+type: dataset
+authors:
+  - family-names: Crestani
+    given-names: Alana
+  - family-names: Marenco
+    given-names: André
+date-released: 2026-10-12
+license: MIT
+keywords:
+  - benefícios eventuais
+  - capacidades estatais
+  - assistência social
+  - desastres
+  - SUAS
+preferred-citation:
+  type: article
+  title: "Capacidades estatais e a oferta do Benefício Eventual para calamidade pública nos municípios brasileiros"
+  authors:
+    - family-names: Crestani
+      given-names: Alana
+    - family-names: Marenco
+      given-names: André
+  journal: "Revista do Serviço Público"
+  year: 2026
