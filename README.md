@@ -4,8 +4,7 @@ Este repositório reúne os dados e o código necessários para reproduzir todas
 estatísticas do artigo:
 
 > CRESTANI, Alana; MARENCO, André. Capacidades estatais e a oferta do Benefício Eventual
-> para calamidade pública nos municípios brasileiros. Artigo submetido à *Revista do Serviço
-> Público* (RSP), 2026.
+> para calamidade pública nos municípios brasileiros.
 
 O artigo investiga por que alguns municípios brasileiros preveem o Benefício Eventual para
 calamidade pública e outros não. A partir do Censo SUAS 2024, estimamos seis modelos de
