@@ -1,0 +1,28 @@
+"variavel","rotulo","tolerancia","vif"
+"idh","IDH-M",0.265709361637841,3.76351060360075
+"reg_nordeste","Região Nordeste",0.302554606205653,3.30518848329904
+"igem_geral","i-QualiGov",0.385477206276938,2.59418711072003
+"pop_ln","População (ln)",0.39464809281691,2.53390303463074
+"pib_ln","PIB per capita (ln)",0.439748234290658,2.27402845997339
+"info_vigilancia_formal","Vigilância - área formal",0.511671351778806,1.95437949872225
+"reg_sul","Região Sul (ref. Sudeste)",0.536571534852089,1.86368440188625
+"inst_psb_formal","Área PSB - formal",0.561343481644677,1.78144047753099
+"inst_pse_formal","Área PSE - formal",0.604301820480612,1.65480222979418
+"reg_norte","Região Norte",0.621593675329494,1.6087679776824
+"info_vigilancia_informal","Vigilância - área informal",0.622190236966476,1.60722547636806
+"rel_defesa_civil","Articulação com a Defesa Civil",0.67359327342962,1.48457539504287
+"inst_be_formal","Área Benefícios - formal",0.678194929903018,1.47450232360628
+"exp_historico_desastres","Exposição histórica a desastres (ln)",0.694091992430264,1.44073121561112
+"reg_centrooeste","Região Centro-Oeste",0.713723426464153,1.40110295237763
+"exp_calamidade_ord","Experiência operacional declarada (0-2)",0.76860684727871,1.30105528403832
+"rel_plano_contingencia","Participa do Plano de Contingência",0.780910283227742,1.28055683409199
+"info_sistema_proprio","Sistema de informação próprio",0.802863699517293,1.24554142951192
+"info_diagnostico","Diagnóstico socioterritorial",0.848934557296228,1.17794710016859
+"info_monitora_pmas","Monitora o PMAS",0.875576966785012,1.14210405016917
+"inst_capacitacao","Realizou capacitação",0.904824190056989,1.10518707500185
+"pol_conselho","Funcionamento do CMAS (0-2)",0.915254025698245,1.0925928451799
+"inst_secretaria_exclusiva","Secretaria exclusiva",0.92177624337949,1.08486197944712
+"inst_educ_perm_funciona","Núcleo Educ. Permanente - funciona",0.926284501908821,1.07958191888051
+"inst_pccs","PCCS",0.930265080751014,1.07496241737107
+"inst_pmas_vigente","PMAS vigente",0.930343956059946,1.07487128119266
+"inst_educ_perm_nao_funciona","Núcleo Educ. Permanente - não funciona",0.958197908411107,1.04362573871426

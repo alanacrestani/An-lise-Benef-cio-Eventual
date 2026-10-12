@@ -1,0 +1,12 @@
+"recorte","categoria","n_total","n_nao_oferta","pct_nao_oferta","n_oferta","pct_oferta"
+"Brasil","Total",5262,745,14,4517,86
+"Região","Regiao Norte",430,77,18,353,82
+"Região","Regiao Nordeste",1764,247,14,1517,86
+"Região","Regiao Centro Oeste",422,101,24,321,76
+"Região","Regiao Sudeste",1540,251,16,1289,84
+"Região","Regiao Sul",1106,69,6,1037,94
+"Porte populacional","Pequeno I",3604,518,14,3086,86
+"Porte populacional","Pequeno II",1010,128,13,882,87
+"Porte populacional","Medio",330,44,13,286,87
+"Porte populacional","Grande",302,51,17,251,83
+"Porte populacional","Metropole",16,4,25,12,75

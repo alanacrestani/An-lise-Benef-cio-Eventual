@@ -1,0 +1,8 @@
+"especificacao","variavel","razao_chance","p_valor"
+"M6 completo","IDH-M",0.0566083726472073,0.0121202753256982
+"M6 completo","i-QualiGov",2.39851065555722,0.183469898054749
+"M6 sem IDH-M","i-QualiGov",1.77925222029077,0.372197666888076
+"M6 sem i-QualiGov","IDH-M",0.0743673716603089,0.0209096506501562
+"M6 sem histórico de desastres","IDH-M",0.0226211675564112,0.000757242623702358
+"M6 sem histórico de desastres","i-QualiGov",3.74478768143565,0.0424038584850425
+"M6 sem histórico e sem i-QualiGov","IDH-M",0.032282405898156,0.00196972661084022
